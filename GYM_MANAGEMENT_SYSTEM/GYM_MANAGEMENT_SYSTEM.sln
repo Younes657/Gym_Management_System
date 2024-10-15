@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main_system_app", "..\main_system_app\main_system_app\main_system_app.csproj", "{DCE12927-6681-4A79-A9F5-9CF7A1E561C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_form", "..\login_form\login_form\login_form.csproj", "{23E56BA3-C0B3-474C-980B-3BA0CB7D17E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE12927-6681-4A79-A9F5-9CF7A1E561C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE12927-6681-4A79-A9F5-9CF7A1E561C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE12927-6681-4A79-A9F5-9CF7A1E561C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE12927-6681-4A79-A9F5-9CF7A1E561C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E56BA3-C0B3-474C-980B-3BA0CB7D17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E56BA3-C0B3-474C-980B-3BA0CB7D17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E56BA3-C0B3-474C-980B-3BA0CB7D17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E56BA3-C0B3-474C-980B-3BA0CB7D17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {546A5A45-8F6D-4095-8AC5-6657DE070F28}
+	EndGlobalSection
+EndGlobal
